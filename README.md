@@ -33,7 +33,7 @@ Setelah melakukan *Hyperparameter Tuning* menggunakan `RandomizedSearchCV`, mode
 
 Visualisasi sebaran prediksi menunjukkan bahwa titik data hasil prediksi tersebar sangat dekat dengan garis prediksi aktual sempurna, membuktikan keakuratan model.
 
-*(Tambahkan gambar screenshot grafik Prediksi vs Aktual di sini)*
+<img width="1021" height="366" alt="evaluation" src="https://github.com/user-attachments/assets/fb573e35-3e44-4af4-bdb5-cdea9701f508" />
 `![Evaluation](assets/evaluation.png)`
 
 ## 🚀 Deployment (Streamlit Web App)
@@ -41,7 +41,7 @@ Logika prediksi dari model yang telah dilatih kemudian diintegrasikan ke dalam a
 
 🔗 **Coba Aplikasi Web secara langsung:** [PyBoys CO2 Emission Prediction](https://pyboys-project.streamlit.app/)
 
-*(Tambahkan gambar screenshot web aplikasi Anda di sini)*
+<img width="1161" height="550" alt="web_preview" src="https://github.com/user-attachments/assets/cc65595a-e15d-4527-8487-d16ee04cb42d" />
 `![Web Preview](assets/web_preview.png)`
 
 ---
